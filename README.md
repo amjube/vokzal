@@ -1,29 +1,18 @@
-# This is a large heading
+# Amanita Muskariatania
 
-## This is a smaller heading
+### Geopolitics
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the great stat of California, in the America of United States. And I like it the way it is.
 
-- This is
-- an unordered
-- list
+### Reading
+Three of my favorite books would be:
+- *Hushpuppies* by Omikabre Halapulia
+- *Who is this Facker?* by Orwelian Buddy
+- *Mommy, I can't sit!* by Chupakabra Oleini
 
-1. This is
-2. an ordered
-3. list
+### Food
+I eat all kind of stuff: from nuts to dishes
 
-Here is `some code` in the middle of a sentence.
+The best way to get in touch with me is [on never](https:/never.never).
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
