@@ -15,4 +15,6 @@ I eat all kind of stuff: from nuts to dishes
 
 The best way to get in touch with me is [on never](https:/never.never).
 
-
+```{r cars}
+summary(cars)
+```
